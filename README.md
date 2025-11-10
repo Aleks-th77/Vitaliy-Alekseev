@@ -1,1 +1,1 @@
-# Vitaliy-Alekseev
+# Мобильная версия
